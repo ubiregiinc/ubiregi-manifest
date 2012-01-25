@@ -4,6 +4,6 @@
            fetch="git@github.com:kmizu/"/>
   <default revision="master"
            remote="ubiregi"/>
-  <project path="onion" name="onion" remote="ubiregi"/>
-  <project path="ubiregi-client" name="ubiregi-client" remote="ubiregi"/>
+  <project path="onion-project" name="onion.git"/>
+  <project path="ubiregi-client-project" name="ubiregi-client.git"/>
 </manifest>
