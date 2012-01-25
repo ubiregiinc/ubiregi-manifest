@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="github"
+           fetch="git://github.com/"/>
+  <default revision="master"
+           remote="kmizu"/>
+
+  <project path="kmizu/ubiregi-client" name="ubiregi-client" remote="github">
+    <copyfile src="README.markdown" dest="README.markdown"/>
+  </project>
+
+  <project name="ubiregi-example1" />
+  <project name="ubiregi-example2" />
+</manifest>
