@@ -2,8 +2,7 @@
 <manifest>
   <remote  name="ubiregi"
            fetch="git@github.com:kmizu/"/>
-  <default revision="master"
-           remote="ubiregi"/>
-  <project path="onion-project" name="onion.git"/>
-  <project path="ubiregi-client-project" name="ubiregi-client.git"/>
+  <default revision="master"/>
+  <project path="onion-project" name="onion"/>
+  <project path="ubiregi-client-project" name="ubiregi-client"/>
 </manifest>
