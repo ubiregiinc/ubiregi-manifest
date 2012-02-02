@@ -3,8 +3,8 @@
   <remote  name="kmizu"
            fetch="git://github.com/kmizu/"/>
   <remote  name="ubiregi-client"
-           fetch="git@github.com:kmizu/ubiregi-client.git"/>
+           fetch="git@github.com:kmizu/"/>
   <default revision="master"/>
   <project path="onion-project" name="onion.git" remote="kmizu"/>
-  <project path="ubiregi-client-project" name="ubiregi-client-p" remote="ubiregi-client"/>
+  <project path="ubiregi-client-project" name="ubiregi-client" remote="ubiregi-client"/>
 </manifest>
