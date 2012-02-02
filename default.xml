@@ -5,6 +5,6 @@
   <remote  name="onion"
            fetch="git@github.com:kmizu/onion.git"/>
   <default revision="master"/>
-  <project path="onion-project" name="." remote="onion"/>
-  <project path="ubiregi-client-project" name="." remote="ubiregi-client"/>
+  <project path="onion-project" name="onion-p" remote="onion"/>
+  <project path="ubiregi-client-project" name="ubiregi-client-p" remote="ubiregi-client"/>
 </manifest>
