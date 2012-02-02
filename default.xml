@@ -4,5 +4,5 @@
            fetch=".."/>
   <default revision="master"/>
   <project path="ubiregi-client" revision="master" name="ubiregi-client.git" remote="origin"/>
-  <project path="ubiregi-inventory revision="master" name="ubiregi-inventory.git" remote="origin"/>
+  <project path="ubiregi-inventory" revision="master" name="ubiregi-inventory.git" remote="origin"/>
 </manifest>
