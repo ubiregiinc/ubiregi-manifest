@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote  name="kmizu"
+  <remote  name="origin"
            fetch=".."/>
   <default revision="master"/>
-  <project path="ubiregi-client" revision="master" name="ubiregi-client.git" remote="kmizu"/>
-  <project path="ubiregi-server" revision="master" name="ubiregi-server.git" remote="kmizu"/>
+  <project path="ubiregi-client" revision="master" name="ubiregi-client.git" remote="origin"/>
+  <project path="ubiregi-inventory revision="master" name="ubiregi-inventory.git" remote="origin"/>
 </manifest>
