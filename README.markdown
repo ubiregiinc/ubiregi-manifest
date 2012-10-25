@@ -1,1 +1,0 @@
-# Manifest repository for repo.
