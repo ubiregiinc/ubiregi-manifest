@@ -1,4 +1,4 @@
-# ubiregi-testing - Manifest Repository for repo to test ubiregi-client and ubiregi-server
+# ubiregi-manifest - Manifest Repository for repo to test ubiregi-qa
 
 # Usage
 
