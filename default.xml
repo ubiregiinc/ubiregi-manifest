@@ -5,5 +5,6 @@
   <default revision="master"/>
   <project path="ubiregi-client" revision="master" name="ubiregi-client.git" remote="origin"/>
   <project path="ubiregi-server" revision="master" name="ubiregi-server.git" remote="origin"/>
-  <project path="ubiregi-qa"     revision="r/cucumber" name="ubiregi-qa.git" remote="origin"/>
+  <project path="ubiregi-qa"     revision="master" name="ubiregi-qa.git" remote="origin"/>
+  <project path="virtual-extension" revision="master" name="virtual-extension.git" remote="origin"/>
 </manifest>
